@@ -29,7 +29,7 @@
 
 ## Fuse Box
 
-**Hantus**:
+**Hantu**:
 
 - will never turn on the fuse box
 
