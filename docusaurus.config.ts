@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Ghost Indentification Manual",
+  title: "The Friendly Phasmaphobia Manual",
   tagline: "Identify Ghosts in Phasmaphobia like a pro",
   favicon: "img/favicon.ico",
 
@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "EthanJ-Brady", // Usually your GitHub org/user name.
-  projectName: "ghost-identification-manual", // Usually your repo name.
+  projectName: "friendly-phasmaphobia-manual", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/EthanJ-Brady/ghost-identification-manual/tree/main",
+            "https://github.com/EthanJ-Brady/friendly-phasmaphobia-manual/tree/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -53,9 +53,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Ghost Identification Manual",
+      title: "The Friendly Phasmaphobia Manual",
       logo: {
-        alt: "Ghost Indentification Manual Logo",
+        alt: "The Friendly Phasmaphobia Manual",
         src: "img/logo.svg",
       },
       items: [
@@ -66,7 +66,7 @@ const config: Config = {
           label: "The Manual",
         },
         {
-          href: "https://github.com/EthanJ-Brady/ghost-identification-manual",
+          href: "https://github.com/EthanJ-Brady/friendly-phasmaphobia-manual",
           label: "GitHub",
           position: "right",
         },
