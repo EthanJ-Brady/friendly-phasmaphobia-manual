@@ -37,6 +37,12 @@
 
 - is the only ghost that can emit EMF at the fuse box when using abilities even it was not toggled on or off
 
+## Lights
+
+**Mare**:
+
+- will never turn on the lights
+
 ## Parabolic Mic
 
 **Myling**:
@@ -65,12 +71,6 @@
 - are the only ghosts that can throw multiple items at once
 - are the only ghosts that will throw with 100% chance (on 0.5 second cooldown)
 - are the only ghosts that will throw items twice as hard
-
-## Turning on lights
-
-**Mare**:
-
-- will never turn on the lights
 
 ## Salt Footprint
 
