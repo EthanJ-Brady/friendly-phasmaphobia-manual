@@ -63,7 +63,7 @@
 **Poltergeists**:
 
 - are the only ghosts that can throw multiple items at once
-- are the only ghosts that will throw with 100% chance (on 5 second cooldown)
+- are the only ghosts that will throw with 100% chance (on 0.5 second cooldown)
 - are the only ghosts that will throw items twice as hard
 
 ## Turning on lights
