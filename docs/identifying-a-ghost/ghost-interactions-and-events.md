@@ -17,7 +17,7 @@
 
 **Goryo**:
 
-- will only appear in DOTS on the camera and not to naked eyy:w
+- will only appear in DOTS on the camera and not to naked eye
 
 ## Flames
 
