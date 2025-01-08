@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Hunt Ghost Flickering
+# Ghost Hunt Flickering
 
 | Ghost   | Visibility Comparison         |
 | ------- | ----------------------------- |
