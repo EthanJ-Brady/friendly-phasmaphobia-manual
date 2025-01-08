@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Ghost Interactions and Events
 
 ## Airball
