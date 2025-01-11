@@ -41,7 +41,7 @@ A moroi will have a greater base and maximum speed when average sanity is lower
 
 **Raiju**:
 
-Depeding on the map size, the raiju will move at a fixed rate of 2.5 m/s
+Depeding on the map size, the raiju will move at a fixed rate of 2.5 m/s if within a specific range of electronics.
 
 | Map Size | Distance to Electronics (m) |
 | -------- | --------------------------- |
