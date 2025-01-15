@@ -56,7 +56,7 @@ const config: Config = {
       title: "The Friendly Phasmaphobia Manual",
       logo: {
         alt: "The Friendly Phasmaphobia Manual",
-        src: "img/logo.svg",
+        src: "img/phasmophobia.png",
       },
       items: [
         {
