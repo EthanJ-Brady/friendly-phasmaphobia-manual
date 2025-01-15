@@ -66,6 +66,11 @@ const config: Config = {
           label: "The Manual",
         },
         {
+          to: "footstepSpeedTrainer",
+          label: "Footstep Trainer",
+          position: "left",
+        },
+        {
           href: "https://github.com/EthanJ-Brady/friendly-phasmaphobia-manual",
           label: "GitHub",
           position: "right",
